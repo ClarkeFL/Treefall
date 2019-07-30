@@ -1,0 +1,7 @@
+name: Treefall_spigot
+version: ${project.version}
+main: za.co.simm.treefall_spigot.treefall_spigot.Treefall_spigot
+api-version: 1.13
+prefix: Treefall
+authors: [SIMM]
+description: A new Tree chopping plugin
